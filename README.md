@@ -69,6 +69,7 @@ Want to see your company here? [Submit a PR](https://github.com/zio/zio/edit/mas
 * [Unit Finance](https://unit.co)
 * [Univalence](https://univalence.io)
 * [Wehkamp](https://www.wehkamp.nl)
+* [Tranzzo](https://www.tranzzo.com)
 
 # Sponsors
 
